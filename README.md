@@ -11,3 +11,5 @@ For more information on contributing to this repository visit [Contributing to a
 
 Use this widget for date input if your users are used to manually entering a date in a specific 
 format that the default widget does not accept.
+
+more changes in the browser
